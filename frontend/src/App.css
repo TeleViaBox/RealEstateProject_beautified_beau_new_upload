@@ -1,0 +1,121 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+/* new added as followings: */
+
+/* body {
+  background-color: #f4f4f4; */
+/* } */
+
+.card-header {
+  background-color: #007bff;
+  color: rgb(255, 255, 255);
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.card {
+  margin: auto;
+}
+
+/* body {
+  background-image: url('./mansion.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+} */
+
+body {
+  background-image: url('./mansion.jpg') !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+}
+
+
+
+/* body, html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-image: url('./your-background-image.jpg'); /* Replace with your image path */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.card {
+  background-color: transparent; 
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+/* new added */
+.smaller-image {
+  width: 50%;
+  height: 50%;
+}
+
+/* new new added */
+
+.sidebar {
+  background-color: red; /* 改变侧边栏背景色 */
+  min-height: 100vh; /* 确保侧边栏高度撑满视口 */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* 添加浮起效果的阴影 */
+  padding-top: 20px; /* 给内容一些空间 */
+}
+
+.nav-link {
+  color: #333; /* 侧边栏链接的颜色 */
+  margin: 10px 0; /* 侧边栏链接的上下外边距 */
+  border-radius: 5px; /* 链接的边框圆角 */
+  transition: all 0.3s; /* 平滑过渡效果 */
+}
+
+.nav-link:hover,
+.nav-link.active {
+  background-color: blue; /* 鼠标悬停或激活状态下的背景色 */
+  color: #0056b3; /* 鼠标悬停或激活状态下的文字颜色 */
+}
