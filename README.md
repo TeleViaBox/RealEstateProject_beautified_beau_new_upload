@@ -30,6 +30,10 @@ Explain how to run and use the project. Include code snippets and screenshots fo
 ```
 (Screenshots or relevant visuals of the project in action)
 
+![image](https://github.com/TeleViaBox/RealEstateProject_beautified_beau_new_upload/assets/62500836/89e9250d-4df6-4f1b-bfea-fc6a4b3749da)
+![image](https://github.com/TeleViaBox/RealEstateProject_beautified_beau_new_upload/assets/62500836/ef3b78d3-2363-43d7-8ede-e1417e68fb45)
+![image](https://github.com/TeleViaBox/RealEstateProject_beautified_beau_new_upload/assets/62500836/4fe69840-16b2-46d3-90c4-637d715d8d2c)
+
 ## Features
 List the key features of project. What makes it stand out?
 
