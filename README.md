@@ -47,7 +47,7 @@ Credit any collaborators, third-party resources, or inspirations.
 [README_ref.md](https://github.com/TeleViaBox/RealEstateProject_beautified_beau_new_upload/blob/main/README_ref.md)
 
 [Optional Sections]
-Demo: Link to a live demo or video demonstration.
-FAQs: Common questions and answers about the project.
-Badges: Include any relevant badges.
-Additional Visuals: Only if they directly contribute to understanding the project.
+- Demo: Link to a live demo or video demonstration.
+- FAQs: Common questions and answers about the project.
+- Badges: Include any relevant badges.
+- Additional Visuals: Only if they directly contribute to understanding the project.
